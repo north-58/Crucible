@@ -222,4 +222,4 @@ Crucible is available as a full free version with all features and updates inclu
 Don't miss out on the action! Download **Crucible** today and immerse yourself in thrilling team-based gameplay!
 
 ---
-**Last updated:** 2026-11-07 04:32:08 UTC
+**Last updated:** 2026-11-07 11:28:52 UTC
